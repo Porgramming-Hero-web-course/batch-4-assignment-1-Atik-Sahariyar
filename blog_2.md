@@ -31,11 +31,11 @@ Asynchronous programming is a fundamental concept in modern JavaScript developme
 ## Why Choose Async/Await?
 
 ### 1. Readability and Maintainability
-    With async/await, asynchronous code is easier to read because it resembles synchronous code, removing the need for extensive `.then` chains or deeply nested callbacks.
+With async/await, asynchronous code is easier to read because it resembles synchronous code, removing the need for extensive `.then` chains or deeply nested callbacks.
     
 ### 2. Better Error Handling
-    Error handling in async/await is more straightforward with `try` and `catch` blocks, making it easier to manage errors in asynchronous code.
+Error handling in async/await is more straightforward with `try` and `catch` blocks, making it easier to manage errors in asynchronous code.
     
 ### 3. Conditional Logic
-    Using `await` inside `if` statements or loops is more intuitive and natural with async/await, allowing for flexible and readable code.
+Using `await` inside `if` statements or loops is more intuitive and natural with async/await, allowing for flexible and readable code.
     
